@@ -1,15 +1,15 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: 안재성 - 이력서
+description: Resume about Jaesung Ahn
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# 안재성
 
-**Programmer**
+**Backend Developer**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+jaesungahn91@gmail.com | https://github.com/jaesungahn91
 
 Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
 
